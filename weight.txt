@@ -1,0 +1,10 @@
+incline press		175
+core chest press	30
+Lat pulldown		105
+seated row		105
+shoulder press		55
+row			55
+tricep curl		75
+leg extension		100
+leg curl		75
+squat			175
